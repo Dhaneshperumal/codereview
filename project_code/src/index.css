@@ -1,0 +1,31 @@
+.app{
+  text-align: center;
+
+}
+.header h2{
+  flex-grow: 1;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.paper{
+   padding: 30px;
+   margin-top: 20%;
+   
+}
+.loginButton{
+  margin-top: 30px;
+}
+
+.link{
+  text-decoration: none;
+  margin-top: 5px;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
